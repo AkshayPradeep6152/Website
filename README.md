@@ -1,2 +1,2 @@
 # Website
-This is official website repo of IEDC BOOTCAMP CEC 
+This is the official website repo of IEDC BOOTCAMP CEC 
